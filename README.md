@@ -31,3 +31,5 @@
 定义模块如下：
 file.py  main.py  menu.py  sorted.py  stu_info.py
 程序丢同一个文件夹内运行就好了
+
+注：要和数据库连接的话，在python3中使用pymysql和mysql数据库相联系从而对数据进行存储，或者以字典的方式存储数据来替代列表的存储方式会更好一点
